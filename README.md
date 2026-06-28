@@ -57,3 +57,4 @@ flutter run -d android
 - Completion toggle is **binary** (0 / 100); scheduled progress is display-only
 - Streak requires **≥75%** completion on days with tasks
 - Notifications fire at **task start time**
+# Daily-Planner-Flutter
